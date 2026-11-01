@@ -1,6 +1,12 @@
-# Domorang 🏠
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/351143927?s=400&v=4" alt="Domorang logo" width="100" />
+</p>
 
-**Find, list, and manage rental homes in Nigeria, all in one place.**
+<h1 align="center">Domorang</h1>
+
+<p align="center">
+  <strong>Find, list, and manage rental homes in Nigeria, all in one place.</strong>
+</p>
 
 Domorang connects renters, agents, and landlords on one platform, so finding a home is simpler and less stressful.
 
