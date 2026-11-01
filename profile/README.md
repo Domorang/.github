@@ -10,10 +10,10 @@ Domorang connects renters, agents, and landlords on one platform, so finding a h
 - **For landlords:** get your property seen by the right people.
 
 ## Where we are
-We're an early-stage startup based in Nigeria, currently building our first release.
+We're an early-stage startup based in Nigeria, currently building our first release for Abuja(we plan to expand with time).
 
 ## Get in touch
 - 🌐 Website: https://domorang.com
-- ✉️ Email:  [to be  updated]
+- ✉️ mail:  [to be  updated]
 
 *Our code is private. If you'd like to work with us or join the team, get in touch.*
