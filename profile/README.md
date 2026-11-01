@@ -14,6 +14,6 @@ We're an early-stage startup based in Nigeria, currently building our first rele
 
 ## Get in touch
 - 🌐 Website: https://domorang.com
-- ✉️ mail:  [to be  updated]
+- ✉️ Email:  [to be  updated]
 
 *Our code is private. If you'd like to work with us or join the team, get in touch.*
